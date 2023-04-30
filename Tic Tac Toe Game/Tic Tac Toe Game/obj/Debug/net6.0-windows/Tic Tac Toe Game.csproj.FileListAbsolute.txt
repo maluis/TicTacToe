@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.exe
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.deps.json
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.runtimeconfig.json
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.dll
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.pdb
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic_Tac_Toe_Game.Form1.resources
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.AssemblyInfo.cs
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.dll
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\refint\Tic Tac Toe Game.dll
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.pdb
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.genruntimeconfig.cache
+C:\Users\admin\source\repos\Tic Tac Toe Game\Tic Tac Toe Game\obj\Debug\net6.0-windows\ref\Tic Tac Toe Game.dll
